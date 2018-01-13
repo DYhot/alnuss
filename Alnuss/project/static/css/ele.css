@@ -1,0 +1,13 @@
+#cartbox .el-table__header-wrapper>table>.has-gutter>tr{
+  background-color: #9fa2a8;
+  color: white;
+}
+#info{
+  height: 200px;
+  border: 1px solid red;
+}
+/*#app #info .bottom>#el-tooltip-8578{*/
+    /*background-color: red;*/
+    /*color: #0000FF;*/
+  /*}*/
+
